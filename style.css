@@ -1,0 +1,13 @@
+body {
+	background-image: url("images/seacopy.jpg");
+	background-attachment: fixed;
+	height:300px;
+	width: 300px;
+	overflow:scroll;
+}
+
+IMG.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
