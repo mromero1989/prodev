@@ -11,3 +11,14 @@ IMG.displayed {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+h1 {
+	font-family: Helvetica;
+	font-size: 1.2em;
+}
+
+h2 {
+	font-family: Arial;
+	font-size: 0.8em;
+}
+
