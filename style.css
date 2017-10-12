@@ -19,7 +19,22 @@ h1 {
 
 h2 {
 	font-family: Arial;
+	font-size: 1em;
+}
+
+h3 {
+	font-family: Arial;
 	font-size: 0.8em;
+}
+
+h4 {
+	font-family: Arial;
+	font-size: 0.7em;
+}
+
+ul {
+	font-family: Arial;
+	font-size: 0.6em;
 }
 
 footer {

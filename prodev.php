@@ -15,7 +15,7 @@
 			theYear = update.getFullYear();
 			document.writeln("<em>Last updated:" + theMonth + "/" + theDate + "/" + theYear + "</em>");
 		</SCRIPT>
-		<h2>LINKS</h2>
+		<h3>LINKS</h3>
 		<ul>
 			<li>Null</li>
 		</ul>
