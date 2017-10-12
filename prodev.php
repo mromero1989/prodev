@@ -53,4 +53,7 @@
 		<h2>WEEKLY REFLECTIONS</h2>
 
 	</body>
+	<footer>
+
+	</footer>
 </html>
