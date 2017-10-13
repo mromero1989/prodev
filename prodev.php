@@ -6,8 +6,8 @@
 		<link href="style.css" type="text/css" rel="stylesheet">
 	</head>
 	<body>
-		<!-- <img class="displayed" src="images/minimal.jpg" alt=""/> -->
 		<h1>MICHAEL ROMERO'S PROFESSIONAL DEVELOPMENT</h1>
+		<!-- This creates a page update to show user when it was modified-->
 		<SCRIPT class="pageupdate" LANGUAGE="JavaScript">
 			update = new Date(document.lastModified);
 			theMonth = update.getMonth() + 1;
