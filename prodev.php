@@ -36,7 +36,7 @@
 		<h3>Qualitative Accomplishments</h3>
 		<ul>
 			<li>Learned the systems programs at work faster than anyone else.</li>
-			<li>Finished the queue of clinics patient lists fast which lead to better team workload.</li>
+			<li>Finished the queue of clinics patient lists fast which lead to a better team workload.</li>
 			<li>Thing 3</li>
 		</ul>
 		<h3>Golden Circle</h3>
