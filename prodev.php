@@ -51,7 +51,8 @@
 		<h5>Version 2</h5>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet viverra metus vitae scelerisque. Nunc varius augue sem, tincidunt pellentesque est ultricies a. Aliquam id.</p>
 		<h2>WEEKLY REFLECTIONS</h2>
-
+		<h3>Week 0</h3>
+		<p>Overall week 0 has been fascinating and I'm slowly finding coming here routine. It was somewhat frightening coming to class because I wasn't sure what to expect. Although it has been hard it is also fun. My only problem is not getting simple instructions because I tend to over think or not fully recognize what I need to do. Although I might take longer than some to learn I feel like dedication and perseverance will get me though this bootcamp. So far, I'm feeling good.</p>
 	</body>
 	<!--footer is left empty because in css it creates an empty space on the web page-->
 	<footer>
