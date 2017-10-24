@@ -53,6 +53,8 @@
 		<h2>WEEKLY REFLECTIONS</h2>
 		<h3>Week 0</h3>
 		<p>Overall week 0 has been fascinating and I'm slowly finding coming here routine. It was somewhat frightening coming to class because I wasn't sure what to expect. Although it has been hard it is also fun. My only problem is not getting simple instructions because I tend to over think or not fully recognize what I need to do. Although I might take longer than some to learn I feel like dedication and perseverance will get me though this bootcamp. So far, I'm feeling good.</p>
+		<h3>Week 1</h3>
+		<p>Week 1 started on a good note and moved into uncharted territory. My number one problem is getting tired around 3. My mind stops working and I stop listening to the lectures. I get home and I'm tired which prevents me from taking in and understanding the material. I am also having fun and can't wait to understand everything. It's my wanting to learn that keeps me driven. I imagine the life I am going to have after this bootcamp and I want to see myself go far in life. It's hard and fun at the same time. I see a lot of people in the same position and it makes me feel less alone. I can't wait to actively work on group projects and see the results of our hard work. I really wish I had a tutor so I can understand the concepts more. I am slightly behind but I know I have to work harder if I want to succeed. </p>
 	</body>
 	<!--footer is left empty because in css it creates an empty space on the web page-->
 	<footer>
