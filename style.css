@@ -12,37 +12,64 @@ IMG.displayed {
 	margin-right: auto;
 }
 
-h1 {
+li {
 	font-family: Helvetica;
-	font-size: 1.3em;
+	font-size: 0.8em;
+	color: black;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	background-color: deeppink;
+}
+
+h1 {
+	font-family: Georgia;
+	font-size: 9em;
+	color: deeppink;
 }
 
 h2 {
 	font-family: Arial;
-	font-size: 1.1em;
+	font-size: 2.5em;
+	color: deeppink;
 }
 
 h3 {
 	font-family: Arial;
-	font-size: 0.9em;
+	color: deeppink;
+	font-size: 1.6em;
 }
 
 h4 {
 	font-family: Arial;
-	font-size: 0.8em;
+	font-size: 1.4em;
+	color: deeppink;
+}
+
+h5 {
+	font-family: Arial;
+	font-size: 1.3em;
+	color: deeppink;
 }
 
 ul {
 	font-family: Arial;
-	font-size: 0.7em;
+	font-size: 1.3em;
 }
 
 p {
 	font-family: Helvetica;
-	font-size: 0.7em;
+	font-size: 1.3em;
+	color: black;
 }
 
 footer {
 	padding-bottom: 400px;
 }
+
+
 

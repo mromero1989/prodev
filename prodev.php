@@ -19,7 +19,7 @@
 			</SCRIPT>
 			<h3>LINKS</h3>
 			<ul>
-				<li>Null</li>
+				<li><a href="pdf/MRresume.pdf">RESUME</a></li>
 			</ul>
 		</header>
 
