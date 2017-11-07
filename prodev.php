@@ -19,7 +19,7 @@
 			</SCRIPT>
 			<h3>LINKS</h3>
 			<ul>
-				<li><a href="pdf/Resume_MR_final.pdf">RESUME</a></li>
+				<li><a href="pdf/MichaelRomero-Resume.pdf">RESUME</a></li>
 			</ul>
 		</header>
 
